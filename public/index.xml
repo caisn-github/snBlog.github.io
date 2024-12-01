@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/post/hello/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/post/hello/</guid>
+      <description>&lt;p&gt;💘 博麗 霊夢 💘&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/post/test/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/post/test/</guid>
+      <description>&lt;h3 id=&#34;hello-this-is-caisn&#34;&gt;&#xA;&lt;a class=&#34;header-anchor&#34; href=&#34;#hello-this-is-caisn&#34;&gt;&lt;/a&gt;&#xA;hello this is caisn!&#xA;&lt;/h3&gt;&lt;h4 id=&#34;em&#34;&gt;&#xA;&lt;a class=&#34;header-anchor&#34; href=&#34;#em&#34;&gt;&lt;/a&gt;&#xA;em?&#xA;&lt;/h4&gt;&lt;p&gt;💘 博麗 霊夢 💘&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/post/test001/test111/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/post/test001/test111/</guid>
+      <description>&lt;h3 id=&#34;sdfuso&#34;&gt;&#xA;&lt;a class=&#34;header-anchor&#34; href=&#34;#sdfuso&#34;&gt;&lt;/a&gt;&#xA;sdfuso?&#xA;&lt;/h3&gt;&lt;p&gt;💘 博麗 霊夢 💘&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
